@@ -44,7 +44,20 @@ behind the scenes.
 
 <!-- REPOS-START -->
 
-_Repository buttons will appear here automatically._
+<div align="center">
+
+<a href="https://github.com/s0k1x/IA-WEB"><img src="https://img.shields.io/badge/IA--WEB-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="IA-WEB" /></a>
+<a href="https://github.com/s0k1x/kreskolab"><img src="https://img.shields.io/badge/kreskolab-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="kreskolab" /></a>
+<a href="https://github.com/s0k1x/malaga-checkout"><img src="https://img.shields.io/badge/malaga--checkout-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="malaga-checkout" /></a>
+<a href="https://github.com/s0k1x/Malaga-reventa"><img src="https://img.shields.io/badge/Malaga--reventa-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="Malaga-reventa" /></a>
+<a href="https://github.com/s0k1x/PELUQUERIA-JUANMA-BARBERIA"><img src="https://img.shields.io/badge/PELUQUERIA--JUANMA--BARBERIA-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="PELUQUERIA-JUANMA-BARBERIA" /></a>
+<a href="https://github.com/s0k1x/PEQUE-m"><img src="https://img.shields.io/badge/PEQUE--m-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="PEQUE-m" /></a>
+<a href="https://github.com/s0k1x/Roblox-automatico"><img src="https://img.shields.io/badge/Roblox--automatico-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="Roblox-automatico" /></a>
+<a href="https://github.com/s0k1x/s0k1x"><img src="https://img.shields.io/badge/s0k1x-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="s0k1x" /></a>
+<a href="https://github.com/s0k1x/s0k1x-toolkit"><img src="https://img.shields.io/badge/s0k1x--toolkit-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="s0k1x-toolkit" /></a>
+<a href="https://github.com/s0k1x/unuvia"><img src="https://img.shields.io/badge/unuvia-VIEW-00ff41?style=for-the-badge&labelColor=050505" alt="unuvia" /></a>
+
+</div>
 
 <!-- REPOS-END -->
 
