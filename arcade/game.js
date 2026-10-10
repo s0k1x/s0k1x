@@ -18,7 +18,7 @@ function tick(){if(!running||paused)return;dir=nextDir;const head={x:snake[0].x+
 if(head.x<0||head.x>=COLS||head.y<0||head.y>=ROWS||snake.some(p=>p.x===head.x&&p.y===head.y)){end();return}
 snake.unshift(head);if(head.x===food.x&&head.y===food.y){score+=10;scoreEl.textContent=String(score).padStart(4,"0");if(score>best){best=score;bestEl.textContent=String(best).padStart(4,"0");try{localStorage.setItem("s0k1x-cybersnake-best",String(best))}catch{}}spawnFood()}else snake.pop();draw();timer=setTimeout(tick,Math.max(65,135-score/5))}
 function start(){clearTimeout(timer);reset();running=true;paused=false;statusEl.textContent="ONLINE";overlay.classList.add("hidden");tick()}
-function change(d){const map={up:{x:0,y:-1},down:{x:0,y:1},left:{x:-1,y:0},right:{x:1,y:0}},n=map[d];if(!n||n.x===-dir.x&&n.y===-dir.y)return;nextDir=n}
+function change(d){const map={up:{x:0,y:-1},down:{x:0,y:1},left:{x:-1,y:0},right:{x:1,y:0}},n=map[d];if(!n||n.x===-nextDir.x&&n.y===-nextDir.y)return;nextDir=n}
 document.addEventListener("keydown",e=>{const keys={ArrowUp:"up",w:"up",ArrowDown:"down",s:"down",ArrowLeft:"left",a:"left",ArrowRight:"right",d:"right"};if(keys[e.key]){e.preventDefault();change(keys[e.key])}if(e.key.toLowerCase()==="p"&&running){paused=!paused;statusEl.textContent=paused?"PAUSED":"ONLINE";if(!paused)tick();else clearTimeout(timer)}if(e.key==="Enter"&&!running)start()});
-document.querySelectorAll("[data-dir]").forEach(b=>b.addEventListener("click",()=>change(b.dataset.dir)));startBtn.addEventListener("click",start);reset();
+document.querySelectorAll("[data-dir]").forEach(b=>{b.addEventListener("click",()=>change(b.dataset.dir));b.addEventListener("pointerdown",e=>{e.preventDefault();change(b.dataset.dir)})});startBtn.addEventListener("click",start);reset();
 })();
