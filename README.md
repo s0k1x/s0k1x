@@ -76,13 +76,13 @@ $ ./mission.sh
 | [IA-WEB](https://github.com/s0k1x/IA-WEB) | HTML | ⭐ 0 | 2026-09-02 18:49 |
 | [kreskolab](https://github.com/s0k1x/kreskolab) | CSS | ⭐ 1 | 2025-12-03 10:04 |
 | [malaga-checkout](https://github.com/s0k1x/malaga-checkout) | JavaScript | ⭐ 0 | 2026-08-29 23:47 |
-| [Malaga-reventa](https://github.com/s0k1x/Malaga-reventa) | HTML | ⭐ 0 | 2026-08-30 22:49 |
+| [Malaga-reventa](https://github.com/s0k1x/Malaga-reventa) | HTML | ⭐ 1 | 2026-10-10 16:01 |
 | [PELUQUERIA-JUANMA-BARBERIA](https://github.com/s0k1x/PELUQUERIA-JUANMA-BARBERIA) | HTML | ⭐ 0 | 2026-09-01 12:40 |
 | [PEQUE-m](https://github.com/s0k1x/PEQUE-m) | HTML | ⭐ 1 | 2026-09-23 08:17 |
 | [Roblox-automatico](https://github.com/s0k1x/Roblox-automatico) | Python | ⭐ 0 | 2026-09-03 14:36 |
-| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 0 | 2026-10-10 15:46 |
-| [s0k1x-toolkit](https://github.com/s0k1x/s0k1x-toolkit) | Shell | ⭐ 1 | 2026-07-29 14:14 |
-| [unuvia](https://github.com/s0k1x/unuvia) | CSS | ⭐ 1 | 2026-10-10 08:07 |
+| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-10-10 16:01 |
+| [s0k1x-toolkit](https://github.com/s0k1x/s0k1x-toolkit) | Shell | ⭐ 1 | 2026-10-11 09:33 |
+| [unuvia](https://github.com/s0k1x/unuvia) | CSS | ⭐ 1 | 2026-10-10 17:58 |
 <!-- AUTO-GENERATED:END -->
 
 <div align="center">
@@ -94,7 +94,7 @@ $ ./mission.sh
 ## `04 / LIVE SYSTEM STATUS`
 
 <!-- STATUS:START -->
-> **Last profile update:** `2026-10-10 15:47 UTC` · **Public repositories scanned:** `10`
+> **Last profile update:** `2026-10-11 13:06 UTC` · **Public repositories scanned:** `10`
 <!-- STATUS:END -->
 
 <div align="center">
