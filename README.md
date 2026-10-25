@@ -73,18 +73,15 @@ $ ./mission.sh
 <!-- AUTO-GENERATED:START -->
 | Repository | Language | Stars | Updated (UTC) |
 |---|---:|---:|---|
-| [AUREVIXWEB](https://github.com/s0k1x/AUREVIXWEB) | JavaScript | ⭐ 0 | 2026-10-24 08:54 |
+| [Aura-X](https://github.com/s0k1x/Aura-X) | JavaScript | ⭐ 0 | 2026-10-24 16:53 |
+| [AUREVIXWEB](https://github.com/s0k1x/AUREVIXWEB) | JavaScript | ⭐ 0 | 2026-10-24 18:05 |
 | [fran](https://github.com/s0k1x/fran) | HTML | ⭐ 0 | 2026-10-21 05:49 |
-| [IA-WEB](https://github.com/s0k1x/IA-WEB) | HTML | ⭐ 0 | 2026-09-02 18:49 |
-| [IA-WEB-2](https://github.com/s0k1x/IA-WEB-2) | JavaScript | ⭐ 0 | 2026-10-22 08:23 |
 | [kreskolab](https://github.com/s0k1x/kreskolab) | CSS | ⭐ 1 | 2025-12-03 10:04 |
-| [malaga-checkout](https://github.com/s0k1x/malaga-checkout) | JavaScript | ⭐ 0 | 2026-08-29 23:47 |
 | [Malaga-reventa](https://github.com/s0k1x/Malaga-reventa) | HTML | ⭐ 1 | 2026-10-10 16:01 |
 | [noans278](https://github.com/s0k1x/noans278) | JavaScript | ⭐ 0 | 2026-10-21 04:57 |
-| [PELUQUERIA-JUANMA-BARBERIA](https://github.com/s0k1x/PELUQUERIA-JUANMA-BARBERIA) | HTML | ⭐ 0 | 2026-09-01 12:40 |
 | [PEQUE-m](https://github.com/s0k1x/PEQUE-m) | HTML | ⭐ 1 | 2026-09-23 08:17 |
 | [Roblox-automatico](https://github.com/s0k1x/Roblox-automatico) | Python | ⭐ 0 | 2026-09-03 14:36 |
-| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-10-23 11:50 |
+| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-10-24 11:17 |
 | [s0k1x-toolkit](https://github.com/s0k1x/s0k1x-toolkit) | Shell | ⭐ 1 | 2026-10-11 15:40 |
 | [unuvia](https://github.com/s0k1x/unuvia) | Python | ⭐ 1 | 2026-10-22 07:41 |
 <!-- AUTO-GENERATED:END -->
@@ -98,7 +95,7 @@ $ ./mission.sh
 ## `04 / LIVE SYSTEM STATUS`
 
 <!-- STATUS:START -->
-> **Last profile update:** `2026-10-24 11:17 UTC` · **Public repositories scanned:** `14`
+> **Last profile update:** `2026-10-25 11:46 UTC` · **Public repositories scanned:** `11`
 <!-- STATUS:END -->
 
 <div align="center">
