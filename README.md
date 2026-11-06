@@ -77,7 +77,7 @@ $ ./mission.sh
 | [AUREVIXWEB](https://github.com/s0k1x/AUREVIXWEB) | JavaScript | ⭐ 0 | 2026-11-05 12:54 |
 | [aurevixweb-web](https://github.com/s0k1x/aurevixweb-web) | HTML | ⭐ 0 | 2026-10-30 07:32 |
 | [fran](https://github.com/s0k1x/fran) | HTML | ⭐ 0 | 2026-10-21 05:49 |
-| [Fran-PuetWBL](https://github.com/s0k1x/Fran-PuetWBL) | HTML | ⭐ 0 | 2026-11-05 13:23 |
+| [Fran-PuetWBL](https://github.com/s0k1x/Fran-PuetWBL) | HTML | ⭐ 0 | 2026-11-06 11:19 |
 | [IA-PRUEBA](https://github.com/s0k1x/IA-PRUEBA) | — | ⭐ 0 | 2026-10-31 07:52 |
 | [kreskolab](https://github.com/s0k1x/kreskolab) | CSS | ⭐ 1 | 2025-12-03 10:04 |
 | [Malaga-reventa](https://github.com/s0k1x/Malaga-reventa) | HTML | ⭐ 1 | 2026-10-10 16:01 |
@@ -85,8 +85,9 @@ $ ./mission.sh
 | [PEQUE-m](https://github.com/s0k1x/PEQUE-m) | HTML | ⭐ 1 | 2026-09-23 08:17 |
 | [prueba-repositorio-airama](https://github.com/s0k1x/prueba-repositorio-airama) | JavaScript | ⭐ 0 | 2026-10-31 07:07 |
 | [Roblox-automatico](https://github.com/s0k1x/Roblox-automatico) | Python | ⭐ 0 | 2026-09-03 14:36 |
-| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-11-04 14:43 |
+| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-11-05 14:48 |
 | [s0k1x-toolkit](https://github.com/s0k1x/s0k1x-toolkit) | Shell | ⭐ 1 | 2026-10-11 15:40 |
+| [sistema-OS-aurevix-OS](https://github.com/s0k1x/sistema-OS-aurevix-OS) | C# | ⭐ 0 | 2026-11-06 12:32 |
 | [unuvia](https://github.com/s0k1x/unuvia) | Python | ⭐ 1 | 2026-10-22 07:41 |
 <!-- AUTO-GENERATED:END -->
 
@@ -99,7 +100,7 @@ $ ./mission.sh
 ## `04 / LIVE SYSTEM STATUS`
 
 <!-- STATUS:START -->
-> **Last profile update:** `2026-11-05 14:48 UTC` · **Public repositories scanned:** `15`
+> **Last profile update:** `2026-11-06 14:26 UTC` · **Public repositories scanned:** `16`
 <!-- STATUS:END -->
 
 <div align="center">
