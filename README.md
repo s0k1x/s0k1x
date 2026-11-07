@@ -84,8 +84,9 @@ $ ./mission.sh
 | [noans278](https://github.com/s0k1x/noans278) | JavaScript | ⭐ 0 | 2026-10-21 04:57 |
 | [PEQUE-m](https://github.com/s0k1x/PEQUE-m) | HTML | ⭐ 1 | 2026-09-23 08:17 |
 | [prueba-repositorio-airama](https://github.com/s0k1x/prueba-repositorio-airama) | JavaScript | ⭐ 0 | 2026-10-31 07:07 |
+| [PRUEBA-WEBS](https://github.com/s0k1x/PRUEBA-WEBS) | — | ⭐ 0 | 2026-11-07 11:00 |
 | [Roblox-automatico](https://github.com/s0k1x/Roblox-automatico) | Python | ⭐ 0 | 2026-09-03 14:36 |
-| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-11-05 14:48 |
+| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-11-06 14:26 |
 | [s0k1x-toolkit](https://github.com/s0k1x/s0k1x-toolkit) | Shell | ⭐ 1 | 2026-10-11 15:40 |
 | [sistema-OS-aurevix-OS](https://github.com/s0k1x/sistema-OS-aurevix-OS) | C# | ⭐ 0 | 2026-11-06 12:32 |
 | [unuvia](https://github.com/s0k1x/unuvia) | Python | ⭐ 1 | 2026-10-22 07:41 |
@@ -100,7 +101,7 @@ $ ./mission.sh
 ## `04 / LIVE SYSTEM STATUS`
 
 <!-- STATUS:START -->
-> **Last profile update:** `2026-11-06 14:26 UTC` · **Public repositories scanned:** `16`
+> **Last profile update:** `2026-11-07 13:17 UTC` · **Public repositories scanned:** `17`
 <!-- STATUS:END -->
 
 <div align="center">
