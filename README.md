@@ -75,6 +75,7 @@ $ ./mission.sh
 |---|---:|---:|---|
 | [anita_repositorio](https://github.com/s0k1x/anita_repositorio) | JavaScript | ⭐ 0 | 2026-11-07 17:58 |
 | [Aura-X](https://github.com/s0k1x/Aura-X) | JavaScript | ⭐ 0 | 2026-10-24 16:53 |
+| [aurevix-OS](https://github.com/s0k1x/aurevix-OS) | C# | ⭐ 0 | 2026-11-11 10:43 |
 | [aurevixweb-web](https://github.com/s0k1x/aurevixweb-web) | HTML | ⭐ 0 | 2026-10-30 07:32 |
 | [fran-taser](https://github.com/s0k1x/fran-taser) | HTML | ⭐ 0 | 2026-11-07 17:52 |
 | [IA-PRUEBA](https://github.com/s0k1x/IA-PRUEBA) | — | ⭐ 0 | 2026-10-31 07:52 |
@@ -83,7 +84,7 @@ $ ./mission.sh
 | [PEQUE-m](https://github.com/s0k1x/PEQUE-m) | HTML | ⭐ 1 | 2026-09-23 08:17 |
 | [prueba-repositorio-airama](https://github.com/s0k1x/prueba-repositorio-airama) | JavaScript | ⭐ 0 | 2026-10-31 07:07 |
 | [Roblox-automatico](https://github.com/s0k1x/Roblox-automatico) | Python | ⭐ 0 | 2026-09-03 14:36 |
-| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-11-09 16:38 |
+| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-11-10 15:02 |
 | [s0k1x-skill](https://github.com/s0k1x/s0k1x-skill) | Python | ⭐ 0 | 2026-11-07 17:23 |
 | [s0k1x-toolkit-kali-linux](https://github.com/s0k1x/s0k1x-toolkit-kali-linux) | Shell | ⭐ 1 | 2026-11-07 17:45 |
 | [S0k1x-WEB](https://github.com/s0k1x/S0k1x-WEB) | JavaScript | ⭐ 0 | 2026-11-10 10:50 |
@@ -98,7 +99,7 @@ $ ./mission.sh
 ## `04 / LIVE SYSTEM STATUS`
 
 <!-- STATUS:START -->
-> **Last profile update:** `2026-11-10 15:02 UTC` · **Public repositories scanned:** `14`
+> **Last profile update:** `2026-11-11 14:33 UTC` · **Public repositories scanned:** `15`
 <!-- STATUS:END -->
 
 <div align="center">
