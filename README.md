@@ -75,16 +75,17 @@ $ ./mission.sh
 |---|---:|---:|---|
 | [anita_repositorio](https://github.com/s0k1x/anita_repositorio) | JavaScript | ⭐ 0 | 2026-11-07 17:58 |
 | [Aura-X](https://github.com/s0k1x/Aura-X) | JavaScript | ⭐ 0 | 2026-10-24 16:53 |
-| [aurevix-OS](https://github.com/s0k1x/aurevix-OS) | C# | ⭐ 0 | 2026-11-11 10:43 |
+| [aurevix-OS](https://github.com/s0k1x/aurevix-OS) | C# | ⭐ 0 | 2026-11-12 07:24 |
 | [aurevixweb-web](https://github.com/s0k1x/aurevixweb-web) | HTML | ⭐ 0 | 2026-10-30 07:32 |
 | [fran-taser](https://github.com/s0k1x/fran-taser) | HTML | ⭐ 0 | 2026-11-07 17:52 |
 | [IA-PRUEBA](https://github.com/s0k1x/IA-PRUEBA) | — | ⭐ 0 | 2026-10-31 07:52 |
+| [Juego-3D-](https://github.com/s0k1x/Juego-3D-) | JavaScript | ⭐ 0 | 2026-11-12 10:55 |
 | [kreskolab](https://github.com/s0k1x/kreskolab) | CSS | ⭐ 1 | 2025-12-03 10:04 |
 | [Malaga-reventa](https://github.com/s0k1x/Malaga-reventa) | HTML | ⭐ 1 | 2026-10-10 16:01 |
 | [PEQUE-m](https://github.com/s0k1x/PEQUE-m) | HTML | ⭐ 1 | 2026-09-23 08:17 |
 | [prueba-repositorio-airama](https://github.com/s0k1x/prueba-repositorio-airama) | JavaScript | ⭐ 0 | 2026-10-31 07:07 |
-| [Roblox-automatico](https://github.com/s0k1x/Roblox-automatico) | Python | ⭐ 0 | 2026-09-03 14:36 |
-| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-11-10 15:02 |
+| [Roblox-automatico](https://github.com/s0k1x/Roblox-automatico) | JavaScript | ⭐ 0 | 2026-11-12 14:13 |
+| [s0k1x](https://github.com/s0k1x/s0k1x) | Python | ⭐ 1 | 2026-11-11 15:33 |
 | [s0k1x-skill](https://github.com/s0k1x/s0k1x-skill) | Python | ⭐ 0 | 2026-11-07 17:23 |
 | [s0k1x-toolkit-kali-linux](https://github.com/s0k1x/s0k1x-toolkit-kali-linux) | Shell | ⭐ 1 | 2026-11-07 17:45 |
 | [S0k1x-WEB](https://github.com/s0k1x/S0k1x-WEB) | JavaScript | ⭐ 0 | 2026-11-10 10:50 |
@@ -99,7 +100,7 @@ $ ./mission.sh
 ## `04 / LIVE SYSTEM STATUS`
 
 <!-- STATUS:START -->
-> **Last profile update:** `2026-11-11 14:33 UTC` · **Public repositories scanned:** `15`
+> **Last profile update:** `2026-11-12 15:26 UTC` · **Public repositories scanned:** `16`
 <!-- STATUS:END -->
 
 <div align="center">
