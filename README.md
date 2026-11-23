@@ -82,6 +82,7 @@ $ ./mission.sh
 | [Juego-3D-](https://github.com/s0k1x/Juego-3D-) | JavaScript | ⭐ 0 | 2026-11-12 10:55 |
 | [kreskolab](https://github.com/s0k1x/kreskolab) | CSS | ⭐ 1 | 2025-12-03 10:04 |
 | [Malaga-reventa](https://github.com/s0k1x/Malaga-reventa) | HTML | ⭐ 1 | 2026-10-10 16:01 |
+| [Neural-eXecution-Terminal-NXT27](https://github.com/s0k1x/Neural-eXecution-Terminal-NXT27) | HTML | ⭐ 0 | 2026-11-22 20:22 |
 | [PEQUE-m](https://github.com/s0k1x/PEQUE-m) | HTML | ⭐ 1 | 2026-09-23 08:17 |
 | [prueba-repositorio-airama](https://github.com/s0k1x/prueba-repositorio-airama) | JavaScript | ⭐ 0 | 2026-10-31 07:07 |
 | [Roblox-automatico](https://github.com/s0k1x/Roblox-automatico) | JavaScript | ⭐ 0 | 2026-11-12 15:52 |
@@ -100,7 +101,7 @@ $ ./mission.sh
 ## `04 / LIVE SYSTEM STATUS`
 
 <!-- STATUS:START -->
-> **Last profile update:** `2026-11-22 14:43 UTC` · **Public repositories scanned:** `16`
+> **Last profile update:** `2026-11-23 18:29 UTC` · **Public repositories scanned:** `17`
 <!-- STATUS:END -->
 
 <div align="center">
